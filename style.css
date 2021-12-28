@@ -4,12 +4,14 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
-.dec_title{
+.developers{
+    margin: 50px 0px;
+}
+.dev_title{
     color: deeppink;
     text-decoration: underline;
-    margin: 40px 0px;
+    margin-bottom: 25px;
 }
-.developers{}
 .dev_team{
     background: cyan;
     padding: 30px;
@@ -25,5 +27,40 @@
 .dev_team h2{
     margin: 14px 0px;
 }
-.dev_team h3{}
-.dev_team p{}
+.students{
+    margin: 50px 0px;
+}
+.student{
+    background: cornflowerblue;
+    border-radius: 3%;
+    padding: 16px 16px;
+    color: white;
+    margin-bottom: 25px;
+}
+.student img{
+    width: 100%;
+    border-radius: 3% 3% 0 0;
+    height: 200px;
+}
+.name{
+    margin: 10px 0px 0px;
+}
+.student h3{
+    font-size: 21px;
+}
+.student_title{
+    color: darkorchid;
+    text-decoration: underline;
+    margin-bottom: 25px;
+}
+.numbers{
+    margin: 50px 0px;
+}
+.number_title{
+    margin-bottom: 25px;
+    color: chartreuse;
+    text-decoration: underline;
+}
+.table_img{
+    width: 70px;
+}
